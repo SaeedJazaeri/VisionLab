@@ -1,0 +1,7 @@
+Computer Vision
+
+Fall 2023
+
+Python Tutorial
+
+python_text.txt
